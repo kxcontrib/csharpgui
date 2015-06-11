@@ -1,0 +1,14 @@
+\\MSAD\ROOT\NA\NY\users\micreyno\Desktop\whitepaperApp\whitepaperTesting\whitepaperTestingProject\bin\Debug\whitepaperTestingProject.exe
+\\MSAD\ROOT\NA\NY\users\micreyno\Desktop\whitepaperApp\whitepaperTesting\whitepaperTestingProject\bin\Debug\whitepaperTestingProject.pdb
+\\MSAD\ROOT\NA\NY\users\micreyno\Desktop\whitepaperApp\whitepaperTesting\whitepaperTestingProject\obj\x86\Debug\ResolveAssemblyReference.cache
+\\MSAD\ROOT\NA\NY\users\micreyno\Desktop\whitepaperApp\whitepaperTesting\whitepaperTestingProject\obj\x86\Debug\whitepaperTestingProject.Form4.resources
+\\MSAD\ROOT\NA\NY\users\micreyno\Desktop\whitepaperApp\whitepaperTesting\whitepaperTestingProject\obj\x86\Debug\whitepaperTestingProject.Form5.resources
+\\MSAD\ROOT\NA\NY\users\micreyno\Desktop\whitepaperApp\whitepaperTesting\whitepaperTestingProject\obj\x86\Debug\whitepaperTestingProject.Form4_1.resources
+\\MSAD\ROOT\NA\NY\users\micreyno\Desktop\whitepaperApp\whitepaperTesting\whitepaperTestingProject\obj\x86\Debug\whitepaperTestingProject.Form2.resources
+\\MSAD\ROOT\NA\NY\users\micreyno\Desktop\whitepaperApp\whitepaperTesting\whitepaperTestingProject\obj\x86\Debug\whitepaperTestingProject.Form1.resources
+\\MSAD\ROOT\NA\NY\users\micreyno\Desktop\whitepaperApp\whitepaperTesting\whitepaperTestingProject\obj\x86\Debug\whitepaperTestingProject.Properties.Resources.resources
+\\MSAD\ROOT\NA\NY\users\micreyno\Desktop\whitepaperApp\whitepaperTesting\whitepaperTestingProject\obj\x86\Debug\GenerateResource.read.1.tlog
+\\MSAD\ROOT\NA\NY\users\micreyno\Desktop\whitepaperApp\whitepaperTesting\whitepaperTestingProject\obj\x86\Debug\GenerateResource.write.1.tlog
+\\MSAD\ROOT\NA\NY\users\micreyno\Desktop\whitepaperApp\whitepaperTesting\whitepaperTestingProject\obj\x86\Debug\whitepaperTestingProject.exe
+\\MSAD\ROOT\NA\NY\users\micreyno\Desktop\whitepaperApp\whitepaperTesting\whitepaperTestingProject\obj\x86\Debug\whitepaperTestingProject.pdb
+\\MSAD\ROOT\NA\NY\users\micreyno\Desktop\whitepaperApp\whitepaperTesting\whitepaperTestingProject\obj\x86\Debug\whitepaperTestingProject.Form3.resources
